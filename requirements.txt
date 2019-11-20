@@ -1,4 +1,4 @@
 pandas
 matplotlib
 ipywidgets
-jupyterlab_launcher>=0.5.0
+jupyterlab>=1.0.0
