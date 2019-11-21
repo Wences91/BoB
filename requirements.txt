@@ -1,4 +1,0 @@
-pandas
-matplotlib
-ipywidgets
-jupyterlab>=1.0.0
